@@ -1,0 +1,17 @@
+//----------------------------------------------------------------------------
+// Copyright 2023, Ed Keenan, all rights reserved.
+//----------------------------------------------------------------------------
+
+syntax = "proto3";
+
+option optimize_for = LITE_RUNTIME;
+
+import "Vec3Data.proto";
+
+message SPH_Frame_proto
+{
+	optional uint32 count = 1;
+	repeated Vec3Data_proto framePositions = 2;
+}
+
+// -- End of File ---

@@ -1,0 +1,17 @@
+//----------------------------------------------------------------------------
+// Copyright 2023, Ed Keenan, all rights reserved.
+//----------------------------------------------------------------------------
+
+syntax = "proto3";
+
+option optimize_for = LITE_RUNTIME;
+
+import "SPH_Frame.proto";
+
+message SPH_Scene_proto
+{
+	optional uint32 frameCount = 1;
+	repeated SPH_Frame_proto frames = 2;
+}
+
+// -- End of File ---
