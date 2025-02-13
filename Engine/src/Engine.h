@@ -15,7 +15,7 @@ namespace Azul
 	{
 	public:
 		static const BOOL g_EnableVSync = true;
-
+		 
 	public:
 		Engine(const char *pName, int width, int height);
 
