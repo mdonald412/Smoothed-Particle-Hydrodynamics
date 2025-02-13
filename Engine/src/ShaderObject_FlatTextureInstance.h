@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //--------------------------------------------------------------
 
 #ifndef SHADER_OBJECT_FLAT_TEXTURE_INSTANCE_H

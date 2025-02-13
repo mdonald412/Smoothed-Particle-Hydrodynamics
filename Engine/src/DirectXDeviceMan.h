@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //--------------------------------------------------------------
 #ifndef DIRECT_X_DEVICE_MAN_H
 #define DIRECT_X_DEVICE_MAN_H

@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //----------------------------------------------------------------------------
 //
 // Framework - for Keenan's C++ classes
@@ -548,7 +548,7 @@ public:
 
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // Memory Tracker 
 //      Homemade Memory Tracker sitting on top of CRTDEBUG
@@ -1365,7 +1365,7 @@ public:
 
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // CPP Unit Test
 //      Unit Test in C++ without exceptions (that was hard)
@@ -2056,7 +2056,7 @@ public:
 #endif  UNIT_TEST_CPP_H
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // Performance timer
 //      Quick hardware timer
@@ -2185,7 +2185,7 @@ public:
 #endif PERFORMANCE_TIMER_H
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // Output Debug print
 //      Same interface as printf(...) but outputs to the debug window
@@ -2277,7 +2277,7 @@ public:
 #endif DEBUG_OUTPUT_H
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // File I/O for logging
 //      Need a clean an easy way to create and log to a file in ascii
@@ -2427,7 +2427,7 @@ public:
 
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // CRC32 for File CRC32
 //      Easy way to determine that a file has changed 1 or more bytes
@@ -2625,7 +2625,7 @@ public:
 #endif
 
 // -----------------------------------------------------------------------
-// Copyright 2023, Ed Keenan, all rights reserved.
+
 //
 // Align16
 //      Needed a clean way to allocate aligned data for Matrix, Quat, and Vector
